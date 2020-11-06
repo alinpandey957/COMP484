@@ -1,0 +1,22 @@
+What's in my Lab2?
+
+=> Lab2.php
+	- This file contains all the php and jquery AJAX (Extra Credit) functionality
+	- There are three AJAX call in this file these are Register, Login and Admin
+	- The Register Call Insert the data in the database table with username and password.
+	- The password saved in the form of Hash value (did the Extra Credit)
+	- The Administrator credentials are 
+			Username = Administrator
+			Password = admin123
+=> Lab2.sql
+
+=> Lab2.txt
+	- Contains the info on Lab2 and where I stand on Lab 2
+
+=> Project Status
+	- I fulfilled all the requirements that mentioned in the document
+	- The project is complete with extra credits.
+
+=> Extra Credit
+	- I have done the hash password
+	- I have done all work in the Jquery AJAX call without refreshing the page
